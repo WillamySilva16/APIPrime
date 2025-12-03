@@ -1,4 +1,4 @@
 fastapi
 uvicorn
-pymysql
-python-dotenv
+pyodbc
+
